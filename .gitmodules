@@ -1,3 +1,12 @@
 [submodule "cookbooks/rabbitmq"]
 	path = cookbooks/rabbitmq
 	url = git@github.com:rgeyer-rs-cookbooks/rabbitmq.git
+[submodule "cookbooks/yum"]
+	path = cookbooks/yum
+	url = git@github.com:rgeyer-rs-cookbooks/yum.git
+[submodule "cookbooks/erlang"]
+	path = cookbooks/erlang
+	url = git@github.com:rgeyer-rs-cookbooks/erlang.git
+[submodule "cookbooks/apt"]
+	path = cookbooks/apt
+	url = git@github.com:rgeyer-rs-cookbooks/apt.git
