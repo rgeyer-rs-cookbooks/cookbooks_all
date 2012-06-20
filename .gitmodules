@@ -1,0 +1,3 @@
+[submodule "cookbooks/rabbitmq"]
+	path = cookbooks/rabbitmq
+	url = git@github.com:rgeyer-rs-cookbooks/rabbitmq.git
