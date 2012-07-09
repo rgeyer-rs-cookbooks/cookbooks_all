@@ -13,3 +13,6 @@
 [submodule "cookbooks/sudo"]
 	path = cookbooks/sudo
 	url = git@github.com:rgeyer-rs-cookbooks/sudo.git
+[submodule "cookbooks/build-essential"]
+	path = cookbooks/build-essential
+	url = git@github.com:rgeyer-rs-cookbooks/build-essential.git
