@@ -16,3 +16,6 @@
 [submodule "cookbooks/build-essential"]
 	path = cookbooks/build-essential
 	url = git@github.com:rgeyer-rs-cookbooks/build-essential.git
+[submodule "cookbooks/perl"]
+	path = cookbooks/perl
+	url = git@github.com:rgeyer-rs-cookbooks/perl.git
