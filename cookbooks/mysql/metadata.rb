@@ -1,0 +1,6 @@
+maintainer        "Ryan J. Geyer"
+maintainer_email  "me@ryangeyer.com"
+license           "Apache 2.0"
+description       "Overrides the MySQL database LWRP to include create_db"
+long_description  "Overrides the MySQL database LWRP to include create_db"
+version           "0.0.1"
